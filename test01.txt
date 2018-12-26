@@ -1,2 +1,4 @@
 hahahahqahaha
 remote 01
+local 01
+local 02
